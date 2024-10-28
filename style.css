@@ -48,7 +48,7 @@ margin-bottom: 20px;
 
 .main-image {
     /* Стили для изображения в первой секции */
-width: 715px;
+max-width: 715px;
 }
 
 
